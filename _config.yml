@@ -83,7 +83,7 @@ kind: "workshop"
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: jananiravi/workshop-Rgenomics-demo
+repository: jananiravi/2024-11-10-Rgenomics
 
 # Email address, no mailto:
 # (Don't change this -- the contact address for your workshop will be set
@@ -170,6 +170,6 @@ highlighter: rouge
 #
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
-url: 'https://jananiravi.github.io/workshop-Rgenomics-demo'
+url: 'https://jananiravi.github.io/2024-11-10-Rgenomics'
 analytics: carpentries
 lang: en
